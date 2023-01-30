@@ -3,3 +3,4 @@ NIM : 221511041
 Kelas : 1B-JTK
 TTL : Cimahi, 17 Februari 2004
 Agama : Islam
+Golongan Darah : B
