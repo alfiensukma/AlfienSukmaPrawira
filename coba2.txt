@@ -1,6 +1,7 @@
 Nama : Alfien Sukma Prawira
 NIM : 221511041
 Kelas : 1B-JTK
-TTL : Cimahi, 17 Februari 2004
+Tempat, Tanggal Lahir : Cimahi, 17 Februari 2004
 Agama : Islam
 Golongan Darah : B
+Prodi : D3-Teknik Informatika
